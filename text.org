@@ -1,0 +1,4 @@
+#+REVEAL_TITLE_SLIDE: <h3>GNU/Linux Distros</h3> by: %a  <p> Email: pallab.alif@gmail.com</p> 
+#+OPTIONS: num:nil toc:nil
+* What is Distro?
+ 
