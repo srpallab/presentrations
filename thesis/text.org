@@ -10,9 +10,11 @@
 - The higher the intensity of scattered light, the higher the turbidity.
 * Turbidity and Human Health
 - Drinking water should have a turbidity of 5 NTU/JTU or less.
-- Where water is chlorinated, turbidity should be less than 5 NTU/JTU. 
+- Where water is chlorinated, turbidity should be less than 5 NTU/JTU.
+[[./turbidity-and-water-quality.jpg]] 
 * Existing System
 - Turbidity can be measured using either an electronic turbidity meter or a turbidity tube.
+[[./turbidity-meter.jpg]]
 -  Both methods have advantages and disadvantages
 * Proposed System
 - Take digital Image of a Water Source.
